@@ -4,7 +4,7 @@ const Skils = () => {
         <>
             <div className="flex flex-col justify-center -mt-24 items-center bg-black">
                 <h1 className=" mb-12 text-5xl font-bold">Skils</h1>
-                <div className="flex gap-40">
+                <div className="flex mb-12 gap-40">
                     <div >
                         <div className="rounded-xl text-xl h-32 w-32 border-1 text-center flex justify-center items-center bg-stone-900">
                             ReactJs
